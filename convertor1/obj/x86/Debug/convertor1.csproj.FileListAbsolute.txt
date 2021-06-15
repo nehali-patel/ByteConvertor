@@ -1,0 +1,7 @@
+C:\Users\Nehali\Desktop\C# practicals\convertor1\convertor1\bin\Debug\convertor1.exe
+C:\Users\Nehali\Desktop\C# practicals\convertor1\convertor1\bin\Debug\convertor1.pdb
+C:\Users\Nehali\Desktop\C# practicals\convertor1\convertor1\obj\x86\Debug\convertor1.Form1.resources
+C:\Users\Nehali\Desktop\C# practicals\convertor1\convertor1\obj\x86\Debug\convertor1.Properties.Resources.resources
+C:\Users\Nehali\Desktop\C# practicals\convertor1\convertor1\obj\x86\Debug\convertor1.csproj.GenerateResource.Cache
+C:\Users\Nehali\Desktop\C# practicals\convertor1\convertor1\obj\x86\Debug\convertor1.exe
+C:\Users\Nehali\Desktop\C# practicals\convertor1\convertor1\obj\x86\Debug\convertor1.pdb
